@@ -1,0 +1,21 @@
+{
+	"models":
+	[
+		{
+			"modelName": "square",
+			"modelIndex": 0
+		},
+		{
+			"modelName": "triangle",
+			"modelIndex": 1
+		},
+		{
+			"modelName": "circle",
+			"modelIndex": 2
+		},
+		{
+			"modelName": "lines",
+			"modelIndex": 3
+		}	
+	]
+}

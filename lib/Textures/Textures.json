@@ -1,0 +1,28 @@
+{
+  "textures": [
+    {
+      "textureName": "Head",
+      "path": "../lib/Textures/Ship.png",
+      "spriteDimensions": [ 540, 608 ],
+      "spriteIndex": [ 0, 0 ]
+    },
+    {
+      "textureName": "Head1",
+      "path": "../lib/Textures/Ship1.png",
+      "spriteDimensions": [ 540, 608 ],
+      "spriteIndex": [ 0, 0 ]
+    },
+    {
+      "textureName": "Head2",
+      "path": "../lib/Textures/Ship2.png",
+      "spriteDimensions": [ 540, 608 ],
+      "spriteIndex": [ 0, 0 ]
+    },
+    {
+      "textureName": "brownstone1",
+      "path": "../lib/Textures/brownstone1.png",
+      "spriteDimensions": [ 118, 121 ],
+      "spriteIndex": [ 0, 0 ]
+    }
+  ]
+}

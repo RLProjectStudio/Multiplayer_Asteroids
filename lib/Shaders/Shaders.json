@@ -1,0 +1,10 @@
+{
+	"shaders":
+	[
+		{
+			"shaderName": "shdrpgm",
+			"vtxShader": "../lib/Shaders/BasicVtx.vert",
+			"frgShader": "../lib/Shaders/BasicFrag.frag"
+		}
+	]
+}
