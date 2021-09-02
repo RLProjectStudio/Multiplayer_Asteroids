@@ -1,0 +1,7 @@
+Team members:
+Lin Yanping Rachel
+- Networking code implementation.
+- Graphics pipeline.
+
+Seow Jun Hao Darren
+- Game architecture and gameplay.
